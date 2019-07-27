@@ -84,6 +84,9 @@ public class FluxAndMonoTest {
 
     }
 
+
+    // Simple test
+
     @Test
     public void monoTest(){
 
